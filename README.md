@@ -1,7 +1,4 @@
 
-<video src="example/T1158v3_Human.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
 ## TULIP
 Template-based modeling for accurate ligand-protein complex structure prediction (TULIP) is developed by BML lab at University of Missouri, Columbia for protein-ligand complex modeling in CASP15.
 
@@ -92,4 +89,6 @@ To run the web based tool of LSAlign, please visit the website below and upload 
 [LS-align](https://zhanggroup.org/LS-align/) , this link will take users to: ```https://zhanggroup.org/LS-align/```
 
 
+## Fitted Ligand for Target T1158v3 using TULIP
 
+![T1158v3](example/T1158v3_Human.png)
