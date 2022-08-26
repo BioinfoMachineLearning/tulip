@@ -91,4 +91,4 @@ To run the web based tool of LSAlign, please visit the website below and upload 
 
 ## Fitted Ligand for Target T1158v3 using TULIP
 
-![T1158v3](example/T1158v3_Human.png)
+![T1158v3](example/T1158v3_Human.gif)
