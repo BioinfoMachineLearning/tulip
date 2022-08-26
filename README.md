@@ -1,5 +1,5 @@
 
-![T1158v3](example/T1158v3_Human.png)
+<video src='example/T1158v3_Human.mp4' width=180/>
 
 ## TULIP
 Template-based modeling for accurate ligand-protein complex structure prediction (TULIP) is developed by BML lab at University of Missouri, Columbia for protein-ligand complex modeling in CASP15.
