@@ -15,12 +15,12 @@ from pdbtemplate import check_get_ligand, superimpose, compare_ligand
 def parse_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument('--config', type=argparse.FileType(mode='r'),
-                        default='/bml/bml_casp15/tools/LigandExtractor-main/configs/run.yml')
+                        default='configs/run.yml')
     parser.add_argument('--input_dir', type=str,
-                        default='/bml/bml_casp15/tools/LigandExtractor-main/data/inputs/',
+                        default='data/inputs/',
                         help='path where to put the generated complexes')
     parser.add_argument('--output_dir', type=str,
-                        default='/bml/bml_casp15/tools/LigandExtractor-main/data/outputs/',
+                        default='data/outputs/',
                         help='path where to put the generated complexes')
 
     return parser.parse_args()
