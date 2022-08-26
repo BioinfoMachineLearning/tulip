@@ -11,6 +11,12 @@ Template-based modeling for accurate ligand-protein complex structure prediction
 
 ``conda activate tulip``
 
+3. The pipeline makes use of UCSF Chimera and PyRosetta. Please install them through their websites
+
+[UCSF Chimera Download](https://www.cgl.ucsf.edu/chimera/download.html) , this link will take users to: ```https://www.cgl.ucsf.edu/chimera/download.html```
+
+[PyRosetta Download](https://www.pyrosetta.org/downloads) , this link will take users to: ```https://www.pyrosetta.org/downloads```
+
 ## Run
 To run the whole pipeline run the following:
 
