@@ -1,0 +1,1 @@
+babel -ismi CCCC(O)OC[C@H](CO[PH](O)(O)OCCN)OC(O)CCC.CCCC(O)OC[C@H](CO[PH](O)(O)OCCN)OC(O)CCC -omol2  outputfile.mol2
