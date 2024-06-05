@@ -33,6 +33,7 @@ The LS-align tool can be downloaded and compiled into local machine from the bel
 To run TULIP pipeline run the following:
 
 ```
+git clone https://github.com/BioinfoMachineLearning/tulip.git
 cd ProteinLigand
 python3 complex_generator.py --config=../configs/configs.yml
 ```
