@@ -1,6 +1,0 @@
-
-chimera_path: '/home/ngzvh/bin/chimera'
-input_dir: './inputs/'
-output_dir: './outputs'
-#equibind_inference: '/bml/nabin/EquiBind-main/inference.py'
-#equibind_inference_yml: '/bml/nabin/EquiBind-main/configs_clean/inference.yml'
