@@ -1,0 +1,7 @@
+
+chimera_path: '/home/ngzvh/bin/chimera' # chimera path to superimpose proteins
+template_dir: '/database/raw_complex_pdbs' # protein template dir for tulip 
+protein_templates: '/protein_ligand/templates' # prediction directory and template names
+output_dir: '/protein_ligand/outputs_casp15' # output dir for results
+protein_name: 'T1187'
+ligand_dir: '/protein_ligand/ligand_smiles_strings'
