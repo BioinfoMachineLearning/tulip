@@ -1,7 +1,7 @@
 ## TULIP
 The template-based modeling for accurate ligand-protein complex structure prediction (TULIP).
 
-``Input`` : Query protein, Ligand molecule ( .SMILES ), Protein Template Hits
+``Input`` : Query protein, Ligand molecule (``.smiles`` ), Protein Template Hits
 
 ``Output`` : ``.sdf`` file of ligand molecule that potentially binds to input query protein
 
