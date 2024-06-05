@@ -32,7 +32,10 @@ The LS-align tool can be downloaded and compiled into local machine from the bel
 
 To run TULIP pipeline run the following:
 
-``python3 complex_generator.py --config=../configs/configs.yml``
+```
+cd ProteinLigand
+python3 complex_generator.py --config=../configs/configs.yml
+```
 
 
 ``configs/configs.yml`` contains the configuration of the pipeline. Enter the correct paths in config file.
